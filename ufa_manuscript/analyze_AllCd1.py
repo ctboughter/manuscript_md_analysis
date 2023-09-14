@@ -16,7 +16,7 @@ frames=200
 # So I only had maxdyn set to 1 
 max_dyn = 30
 # Load in a key to pull out the distances
-save_pair = pandas.read_csv('cd1_pairLocate.csv')
+save_pair = pandas.read_csv('datfiles/cd1_pairLocate.csv')
 # Pick out more resid pairs if wanted/needed
 key_cd1_pairs = [[76,153],[73,154],[70,161],[69,161]]
 
