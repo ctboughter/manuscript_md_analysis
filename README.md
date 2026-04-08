@@ -19,3 +19,4 @@ Unfortunately these scripts rely more heavily on the simulated data, which are a
 
 Both the analyze_AllCd1.py and cd1_ufa_analyze.ipynb files contain code to recreate the analysis, either in script or in Jupyter notebook form.
 
+As a note, we've added an "OLDcode" directory for files that *might* still be useful but that it isn't necessarily clear at the moment. Cleaning up to be done upon final publication.
